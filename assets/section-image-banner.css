@@ -436,3 +436,26 @@
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
 }
+
+/* image banner test */
+.ban-title {
+  color: #000000;
+}
+.ban-desc {
+  color: #000000;
+  font-size: 20px;
+}
+
+.float-left {
+  float: left;
+}
+
+.pos-right {
+  position: absolute;
+  right: 0px;
+}
+
+.mar-auto{
+  margin: auto;
+}
+/* end image banner test */
