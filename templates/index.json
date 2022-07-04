@@ -92,7 +92,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Software Engineers",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "<p>Test software enginieers<\/p>",
         "show_description": false,
         "description_style": "body",
